@@ -1,4 +1,0 @@
-Caso #1: 22
-Caso #2: 19
-Caso #3: 10
-Caso #4: 12
